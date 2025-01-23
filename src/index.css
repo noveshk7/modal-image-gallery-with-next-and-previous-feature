@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+:root {
+  --bg-primary: #ffffff;
+  --text-primary: #333333;
+  --navbar-bg: #ffffff;
+  --navbar-shadow: rgba(0, 0, 0, 0.1);
+  font-family: 'Poppins', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 600;
+}
+
+.dark-mode {
+  --bg-primary: #1a1a1a;
+  --text-primary: #ffffff;
+  --navbar-bg: #242424;
+  --navbar-shadow: rgba(255, 255, 255, 0.1);
+}
+
+body {
+  margin: 0;
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  transition: background-color 0.3s, color 0.3s;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+button {
+  cursor: pointer;
+  border: none;
+  outline: none;
+}
+
+button:focus {
+  outline: none;
+}
