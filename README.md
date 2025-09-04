@@ -62,7 +62,7 @@ npm run preview
 
 ## 👨‍💻 Author
 
-Developed by **Novesh Kumar Gautam**
+Developed by **Novesh Kumar Gautam** 
 GitHub: [noveshk7](https://github.com/noveshk7)
 
 ---
