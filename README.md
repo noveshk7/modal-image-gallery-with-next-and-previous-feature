@@ -60,6 +60,30 @@ npm run preview
 
 ---
 
+## 📖 Usage
+1. Open the gallery in the browser.
+2. Click an image to open modal preview.
+3. Navigate with next/previous buttons.
+4. Close modal when finished.
+
+---
+
+## 🌟 Future Enhancements
+- 🔍 Zoom in/out on images
+- 🖼️ Fullscreen view
+- 🌓 Dark/Light mode
+- 📂 Categorized albums
+
+---
+
+## 🤝 Contributing
+Contributions are welcome!
+- Fork the repo
+- Create a feature branch
+- Submit a pull request 🚀
+
+---
+
 ## 👨‍💻 Author
 
 - Developed by **Novesh Kumar Gautam** 
